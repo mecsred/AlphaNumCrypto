@@ -1,0 +1,5 @@
+2021-11-21
+More deliberation about how to handle different symbol sets quickly. I think in
+the end I need to focus on getting features implemented. Then we
+can attempt to pare down the less useful ones and speed the conversion/rotation
+up based on how slow it ends up.
